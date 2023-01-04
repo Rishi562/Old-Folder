@@ -1,0 +1,18 @@
+#!/bin/bash
+
+name=$1
+compliment=$2
+user=$(whoami)
+date=$(date)
+whereami=$(pwd)
+echo " GM $name"
+
+sleep 1
+
+echo "unga $name"
+
+sleep 1
+
+echo " kdfmdf $compliment "
+
+echo "you are logged in as 
